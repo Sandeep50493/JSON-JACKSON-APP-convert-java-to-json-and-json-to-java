@@ -1,0 +1,11 @@
+{
+"name":"Sandeep",
+"from":"Yeshvantpur",
+"to":"Danapur",
+"gender":"Male",
+"addr":{
+         "city":"Bengaluru",
+         "state":"Karnataka",
+         "country":"India"
+         }
+}
